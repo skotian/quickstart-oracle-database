@@ -6,7 +6,7 @@
             "ParameterGroups": [
                 {
                     "Label": {
-                        "default": "Network Configuration"
+                        "default": "Network configuration"
                     },
                     "Parameters": [
                         "AvailabilityZones",
@@ -20,7 +20,7 @@
                 },
                 {
                     "Label": {
-                        "default": "Amazon EC2 Configuration"
+                        "default": "Amazon EC2 configuration"
                     },
                     "Parameters": [
                         "KeyPairName",
@@ -34,7 +34,7 @@
                 },
                 {
                     "Label": {
-                        "default": "Oracle Database Configuration"
+                        "default": "Oracle Database configuration"
                     },
                     "Parameters": [
                         "OracleVersion",
@@ -71,7 +71,7 @@
                 },
                 {
                     "Label": {
-                        "default": "Linux Bastion Configuration"
+                        "default": "Linux Bastion configuration"
                     },
                     "Parameters": [
                         "BastionAMIOS",
@@ -82,7 +82,7 @@
                 },
                 {
                     "Label": {
-                        "default": "AWS Quick Start Configuration"
+                        "default": "AWS Quick Start configuration"
                     },
                     "Parameters": [
                         "QSS3BucketName",
